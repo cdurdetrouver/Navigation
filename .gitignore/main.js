@@ -9,4 +9,4 @@ client.on("ready", function () {
 
 const préfix = "!"
 
-client.login(process.env.TOKEN);
+client.login('Nzg5NTQ1ODA5NTM1Njk2ODk2.X9zn1g.mmp__8aor_oISPAIUAG5G0O888U');
